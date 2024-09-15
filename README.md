@@ -1,0 +1,2 @@
+# easypanel-token
+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
